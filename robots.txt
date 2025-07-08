@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sitemap.alexanderwright.com/sitemap.xml
+Sitemap: https://alexanderwright.com/s/sitemap.xml
